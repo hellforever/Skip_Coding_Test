@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SkipTest1</string>
+    <string name="error">Network error</string>
+    <string name="score">score:%1$.2f</string>
+    <string name="address">Address: %1$s %2$s %3$s</string>
+    <string name="time">Opening Time: %1$s</string>
+    <string name="deal">Deals: %1$s</string>
 </resources>
